@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583783072 source:c:\users\deniz\desktop\polygon_hw1\main.c
+	<windows.h>
+	<gl/glut.h>
+
